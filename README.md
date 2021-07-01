@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Hi 
+My name is Eegii.
+I am learning programming.
